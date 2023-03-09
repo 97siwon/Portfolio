@@ -17,15 +17,29 @@
 ### 1. [FarmFarm 바로가기](http://129.154.53.250:8080)
  
 <blockquote>
-농자재 쇼핑몰 및 농산물 거래 중개 플랫폼<br>
-2022.12.12 ~ 2023.01.11<br>
-6인 팀프로젝트
+- 농자재 쇼핑몰 및 농산물 거래 중개 플랫폼<br><br>
+- 2022.12.12 ~ 2023.01.11<br><br>
+- 6인 팀프로젝트<br><br>
+- 기술 스택:<br>
+Java 11 / Spring 5.3.14 / Maven / JSP / ORACLE 21c<br>
+/ Tomcat 9.0 / Spring Security / Javascript / Mybatis 등<br><br>
+- 담당 역할
+  - 로그인, 회원가입
+<br><br>
+- [프로젝트 상세 설명]()
 </blockquote>
 
 ### 2. [BOND 바로가기](http://146.56.191.169:8080/index/main)
  
 <blockquote>
-취미 공유 소모임 / 커뮤니티 (네이버 밴드 클론 코딩)<br>
-2022.10.18 ~ 2022.12.10<br>
-4인 팀프로젝트
+- 취미 공유 소모임 / 커뮤니티 (네이버 밴드 클론 코딩)<br><br>
+- 2022.10.18 ~ 2022.12.10<br><br>
+- 4인 팀프로젝트<br><br>
+- 기술 스택:<br>
+Java 11 / Spring 5.3.14 / Maven / JSP / ORACLE 21c<br>
+/ Tomcat 9.0 / Spring Security / Javascript / Mybatis 등<br><br>
+- 담당 역할
+ - 모임 찾기
+<br><br>
+- [프로젝트 상세 설명]()
 </blockquote>
