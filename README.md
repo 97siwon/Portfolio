@@ -24,7 +24,10 @@
 Java 11 / Spring 5.3.14 / Maven / JSP / ORACLE 21c<br>
 / Tomcat 9.0 / Spring Security / Javascript / Mybatis 등<br><br>
 담당 역할<br>
-- 로그인, 회원가입
+- 로그인, 회원가입(CoolSMS)<br>
+- 아이디, 비밀번호 찾기<br>
+- 개인정보수정(비밀번호 변경, 회원 탈퇴, 이미지, 주소 변경<br>
+- 레시피 API
 <br><br>
 
 [프로젝트 상세 설명](https://github.com/97siwon/FarmFarm)
@@ -39,8 +42,10 @@ Java 11 / Spring 5.3.14 / Maven / JSP / ORACLE 21c<br>
 기술 스택:<br>
 Java 11 / Spring 5.3.14 / Maven / JSP / ORACLE 21c<br>
 / Tomcat 9.0 / Spring Security / Javascript / Mybatis 등<br><br>
-담당 역할
-- 모임 찾기
+담당 역할<br>
+- 모임 찾기 검색 기능<br>
+- 가입X 모임 조회<br>
+- 카테고리별 모임 조회
 <br><br>
 
 [프로젝트 상세 설명](https://github.com/97siwon/bondProject)
